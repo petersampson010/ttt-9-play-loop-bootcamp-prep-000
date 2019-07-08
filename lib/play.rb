@@ -39,5 +39,5 @@ player_goes = 0
 # Define your play method below
 def play(board)
   while player_goes < 9
-  
+  pla
   
