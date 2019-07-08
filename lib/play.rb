@@ -35,7 +35,8 @@ def turn(board)
   end
 end
 
-player_goes =
+player_goes = 0
 # Define your play method below
 def play(board)
+  
   
