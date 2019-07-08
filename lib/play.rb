@@ -35,13 +35,7 @@ def turn(board)
   end
 end
 
-player_goes = 0
-
+counter = 0
 def play(board)
-  while player_goes < 9
-    player_goes += 1
-    turn(board)
-  end 
-end
-
+  while 
   
